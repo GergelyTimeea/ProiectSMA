@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339618665579",
+    "project_id": "proiectdentisti",
+    "storage_bucket": "proiectdentisti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339618665579:android:834db040013900ac5bcd2e",
+        "android_client_info": {
+          "package_name": "com.example.proiectdentisti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOjv_ckRpBQw8Lr7gscJtwMk-bzZLg86c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
